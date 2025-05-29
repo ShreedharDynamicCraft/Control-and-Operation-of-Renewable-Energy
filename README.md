@@ -68,8 +68,7 @@ Renewable energy sources like **solar and wind** are the future, but **their eff
 - Sends **alerts when performance drops** below threshold.
 
 ## 📸 Screenshots
-![Hacthon Certificate](assets/Hacthon Certificate.jpeg)
-
+![Hacthon Certificate](assets/Hacthon_Certificate.jpeg)
 ![Dashboard Preview](assets/screenshot_1.png)
 ![Dashboard Preview](assets/screenshot_4.png)
 ![Dashboard Preview](assets/screenshot_7.png)
