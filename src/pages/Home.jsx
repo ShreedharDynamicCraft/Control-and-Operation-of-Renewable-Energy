@@ -53,35 +53,35 @@ const EnergyLandingPage = () => {
       title: 'AI-Powered Energy Forecasting',
       description: 'Real-time prediction of solar & wind power generation using advanced ML models and weather APIs',
       icon: <FaChartLine className="text-green-600 text-4xl mb-4" />,
-      link: 'http://192.168.231.246:8501/',
+      link: 'https://control-and-operation-of-renewable-energy-tx9cuvefu7wwpggprjsa.streamlit.app/',
     },
     {
       id: 2,
       title: 'Battery Health Management',
       description: 'Monitor battery health and capacity in real-time with predictive maintenance recommendations',
       icon: <FaBolt className="text-yellow-500 text-4xl mb-4" />,
-      link: 'http://192.168.231.246:8501/',
+      link: 'https://control-and-operation-of-renewable-energy-tx9cuvefu7wwpggprjsa.streamlit.app/',
     },
     {
       id: 3,
       title: 'Grid Monitoring & Control',
       description: 'Real-time monitoring and dynamic power allocation to prevent overloads and ensure grid stability',
       icon: <FaGlobe className="text-blue-500 text-4xl mb-4" />,
-      link: 'http://192.168.231.246:8501/',
+      link: 'https://control-and-operation-of-renewable-energy-tx9cuvefu7wwpggprjsa.streamlit.app/',
     },
     {
       id: 4,
       title: 'Smart Energy Utilization',
       description: 'Intelligent scheduling of energy usage during peak renewable generation with personalized recommendations',
       icon: <FaUserShield className="text-purple-500 text-4xl mb-4" />,
-      link: 'http://192.168.231.246:8501/',
+      link: 'https://control-and-operation-of-renewable-energy-tx9cuvefu7wwpggprjsa.streamlit.app/',
     },
     {
       id: 5,
       title: 'Advanced India Solar Power Calculator',
       description: 'Estimate solar power generation potential based on location, panel efficiency, and real-time weather data',
       icon: <FaSun className="text-orange-500 text-4xl mb-4" />,
-      link: 'http://localhost:8501',
+      link: 'https://control-and-operation-of-renewable-energy-tx9cuvefu7wwpggprjsa.streamlit.app/',
     }
     ,
     {
@@ -89,7 +89,7 @@ const EnergyLandingPage = () => {
       title: 'Advanced Wind Energy Forecasting',
       description: 'Predict wind energy generation using real-time weather data, turbine specifications, and AI-based modeling.',
       icon: <FaWind className="text-blue-500 text-4xl mb-4" />,
-      link: 'http://localhost:8501', // Change this to the actual URL where your wind forecasting app runs
+      link: 'https://control-and-operation-of-renewable-energy-tx9cuvefu7wwpggprjsa.streamlit.app/', // Change this to the actual URL where your wind forecasting app runs
     }
   ];
 
